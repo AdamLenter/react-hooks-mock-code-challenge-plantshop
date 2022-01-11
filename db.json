@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "John Stamos",
+      "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE5NTU2MzE2NDc2NzA0MjY3/john-stamos-10073503-1-402.jpg",
+      "price": "420.69",
+      "id": 8
+    },
+    {
+      "name": "Mr. Met",
+      "image": "https://static.wikia.nocookie.net/sportsmascots/images/7/77/Mr_Met.jpg",
+      "price": "1234",
+      "id": 9
     }
   ]
 }
